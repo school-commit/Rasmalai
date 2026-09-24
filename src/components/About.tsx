@@ -23,7 +23,7 @@ export function About({ isOpen, onClose }: Props) {
           here to talk, tease, listen, and help whenever you need her.
         </p>
         <p className="about-note">
-          Rasmalai is an AI, not a real person — always happy to chat, but never a replacement
+          Rasmalai is an AI, inspired by a real person — always happy to chat, but never a replacement
           for the people in your life. 💗
         </p>
         <span className="about-version">Version 1.0.0</span>
